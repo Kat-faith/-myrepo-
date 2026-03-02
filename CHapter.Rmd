@@ -14,7 +14,7 @@ library(readr)
 
 ```{r}
 # Load Data
-
+dplace_df <- read_csv("data/Values_Transport_dplace copy.csv")
 ```
 
 
