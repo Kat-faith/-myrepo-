@@ -1,0 +1,28 @@
+---
+title: "Chapter Practice"
+author: "Kat Black"
+date: "r `Sys.date`"
+output: html_notebook
+---
+
+## Load Data
+
+```{r}
+# Library
+library(readr)
+```
+
+```{r}
+# Load Data
+
+```
+
+
+
+
+
+
+
+
+
+
